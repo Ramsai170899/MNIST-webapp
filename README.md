@@ -1,6 +1,6 @@
 # MNIST Digit Recognition with Deep Learning
 
-This project is a simple web application that uses deep learning to recognize hand-drawn digits. It's based on the MNIST dataset, a popular dataset for digit recognition.
+This project is a simple web application that uses deep learning to recognize hand-drawn digits. It's based on the MNIST dataset, a popular dataset for digit recognition. you can find the kaggle notebook link [here](https://www.kaggle.com/code/ramsaijagadish/mnist-digit-recognition/edit) for the Deep Learning part of the project.
 
 ![screenshot](https://github.com/Ramsai170899/MNIST-webapp/blob/main/front.png)
 
