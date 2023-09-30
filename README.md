@@ -2,7 +2,7 @@
 
 This project is a simple web application that uses deep learning to recognize hand-drawn digits. It's based on the MNIST dataset, a popular dataset for digit recognition.
 
-![screenshot]()
+![screenshot](https://github.com/Ramsai170899/MNIST-webapp/blob/main/front.png)
 
 ## Features
 
@@ -15,11 +15,15 @@ This project is a simple web application that uses deep learning to recognize ha
 
 - Flask: A Python web framework used for serving the web application.
 - TensorFlow and Keras: Deep learning libraries for building and training the digit recognition model.
-- HTML/CSS/JavaScript: Used for the frontend to create the drawing canvas and handle user interactions.
+- HTML/CSS/JavaScript: Used for the front end to create the drawing canvas and handle user interactions.
 
-## Usage
 
-1. Clone the repository:
+## Contributions
 
-   ```bash
-   git clone https://github.com/yourusername/mnist-digit-recognition.git
+Contributions are welcome! If you'd like to improve this project, please follow these steps:
+
+- Fork the repository.
+- Create a new branch for your feature: git checkout -b feature-name.
+- Make your changes and commit them: git commit -m 'Add some feature'.
+- Push to the branch: git push origin feature-name.
+- Create a pull request on GitHub.
